@@ -1,9 +1,0 @@
-dist/*.js.map
-dist/*.d.ts
-tsconfig.build.tsbuildinfo
-.git
-.gitignore
-.eslintrc.js
-.prettierrc
-README.md
-Dockerfile
